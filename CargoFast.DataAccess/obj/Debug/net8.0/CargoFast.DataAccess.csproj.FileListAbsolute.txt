@@ -1,0 +1,15 @@
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\bin\Debug\net8.0\CargoFast.DataAccess.deps.json
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\bin\Debug\net8.0\CargoFast.DataAccess.dll
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\bin\Debug\net8.0\CargoFast.DataAccess.pdb
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\obj\Debug\net8.0\CargoFast.DataAccess.csproj.AssemblyReference.cache
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\obj\Debug\net8.0\CargoFast.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\obj\Debug\net8.0\CargoFast.DataAccess.AssemblyInfoInputs.cache
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\obj\Debug\net8.0\CargoFast.DataAccess.AssemblyInfo.cs
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\obj\Debug\net8.0\CargoFast.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\obj\Debug\net8.0\CargoFast.DataAccess.dll
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\obj\Debug\net8.0\refint\CargoFast.DataAccess.dll
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\obj\Debug\net8.0\CargoFast.DataAccess.pdb
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\obj\Debug\net8.0\ref\CargoFast.DataAccess.dll
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\bin\Debug\net8.0\CargoFast.Entity.dll
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\bin\Debug\net8.0\CargoFast.Entity.pdb
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.DataAccess\obj\Debug\net8.0\CargoFas.A28D3F2D.Up2Date

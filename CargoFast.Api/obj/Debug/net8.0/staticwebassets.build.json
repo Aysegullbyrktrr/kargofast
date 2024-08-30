@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rx98LWaFo7uggkEUPfvaQz+qo7dP+D9RGxPY2w6h8VY=",
+  "Source": "CargoFast.Api",
+  "BasePath": "_content/CargoFast.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

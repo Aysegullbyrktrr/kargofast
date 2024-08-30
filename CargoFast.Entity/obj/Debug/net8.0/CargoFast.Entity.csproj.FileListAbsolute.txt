@@ -1,0 +1,12 @@
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Entity\bin\Debug\net8.0\CargoFast.Entity.deps.json
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Entity\bin\Debug\net8.0\CargoFast.Entity.dll
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Entity\bin\Debug\net8.0\CargoFast.Entity.pdb
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Entity\obj\Debug\net8.0\CargoFast.Entity.csproj.AssemblyReference.cache
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Entity\obj\Debug\net8.0\CargoFast.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Entity\obj\Debug\net8.0\CargoFast.Entity.AssemblyInfoInputs.cache
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Entity\obj\Debug\net8.0\CargoFast.Entity.AssemblyInfo.cs
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Entity\obj\Debug\net8.0\CargoFast.Entity.csproj.CoreCompileInputs.cache
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Entity\obj\Debug\net8.0\CargoFast.Entity.dll
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Entity\obj\Debug\net8.0\refint\CargoFast.Entity.dll
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Entity\obj\Debug\net8.0\CargoFast.Entity.pdb
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Entity\obj\Debug\net8.0\ref\CargoFast.Entity.dll

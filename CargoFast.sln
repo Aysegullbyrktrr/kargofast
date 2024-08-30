@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoFast.Api", "CargoFast.Api\CargoFast.Api.csproj", "{99691533-875E-4F79-A5C5-2C16F693068A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9FC89C91-82ED-4CE2-92D2-A528CEB16B38}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoFast.Entity", "CargoFast.Entity\CargoFast.Entity.csproj", "{65AC6D74-4882-412A-95D0-1B5F15E62938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoFast.DataAccess", "CargoFast.DataAccess\CargoFast.DataAccess.csproj", "{CAF42DC7-2E86-484E-9EFD-64EA2F154E30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoFast.Bussines", "CargoFast.Bussines\CargoFast.Bussines.csproj", "{E0441310-5AC5-4A3B-82CA-8AB918FF322B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99691533-875E-4F79-A5C5-2C16F693068A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99691533-875E-4F79-A5C5-2C16F693068A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99691533-875E-4F79-A5C5-2C16F693068A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99691533-875E-4F79-A5C5-2C16F693068A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65AC6D74-4882-412A-95D0-1B5F15E62938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AC6D74-4882-412A-95D0-1B5F15E62938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AC6D74-4882-412A-95D0-1B5F15E62938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AC6D74-4882-412A-95D0-1B5F15E62938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF42DC7-2E86-484E-9EFD-64EA2F154E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF42DC7-2E86-484E-9EFD-64EA2F154E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF42DC7-2E86-484E-9EFD-64EA2F154E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF42DC7-2E86-484E-9EFD-64EA2F154E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0441310-5AC5-4A3B-82CA-8AB918FF322B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0441310-5AC5-4A3B-82CA-8AB918FF322B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0441310-5AC5-4A3B-82CA-8AB918FF322B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0441310-5AC5-4A3B-82CA-8AB918FF322B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

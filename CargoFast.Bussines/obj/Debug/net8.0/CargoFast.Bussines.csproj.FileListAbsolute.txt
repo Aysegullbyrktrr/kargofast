@@ -1,0 +1,17 @@
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\bin\Debug\net8.0\CargoFast.Bussines.deps.json
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\bin\Debug\net8.0\CargoFast.Bussines.dll
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\bin\Debug\net8.0\CargoFast.Bussines.pdb
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\bin\Debug\net8.0\CargoFast.DataAccess.dll
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\bin\Debug\net8.0\CargoFast.Entity.dll
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\bin\Debug\net8.0\CargoFast.Entity.pdb
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\bin\Debug\net8.0\CargoFast.DataAccess.pdb
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\obj\Debug\net8.0\CargoFast.Bussines.csproj.AssemblyReference.cache
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\obj\Debug\net8.0\CargoFast.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\obj\Debug\net8.0\CargoFast.Bussines.AssemblyInfoInputs.cache
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\obj\Debug\net8.0\CargoFast.Bussines.AssemblyInfo.cs
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\obj\Debug\net8.0\CargoFast.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\obj\Debug\net8.0\CargoFas.58981D2B.Up2Date
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\obj\Debug\net8.0\CargoFast.Bussines.dll
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\obj\Debug\net8.0\refint\CargoFast.Bussines.dll
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\obj\Debug\net8.0\CargoFast.Bussines.pdb
+C:\Users\AYŞEGÜL\RiderProjects\CargoFast\CargoFast.Bussines\obj\Debug\net8.0\ref\CargoFast.Bussines.dll

@@ -1,0 +1,6 @@
+@CargoFast_HostAddress = http://localhost:5051
+
+GET {{CargoFast_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
