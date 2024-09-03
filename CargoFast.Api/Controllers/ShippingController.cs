@@ -51,7 +51,7 @@ namespace CargoFast.Api.Controllers;
             }
             catch (Exception ex)
             {
-                // Hata durumunda, InternalServerError (500) döndürüyoruz
+                
                 return StatusCode(500, "An error occurred while creating the shipping: " + ex.Message);
             }
         }
@@ -65,7 +65,7 @@ namespace CargoFast.Api.Controllers;
                 return Ok("Shipping deleted successfully.");
                          
             }catch (Exception ex) {
-                // Hata durumunda, InternalServerError (500) döndürüyoruz
+                
                 return StatusCode(500, "An error occurred while deleting the shipping: " + ex.Message);
             }
         }
