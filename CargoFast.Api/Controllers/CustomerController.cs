@@ -35,7 +35,7 @@ public class CustomerController: ControllerBase
    [HttpGet("{id}")]
    public async Task<IActionResult> GetCustomerById(string id)
    {
-      var value = await _customerService.TGetByIdAsync(id); // TGetByIdAsync kullanıldı
+      var value = await _customerService.TGetByIdAsync(id); 
       return Ok(value);
    }
    
@@ -46,7 +46,7 @@ public class CustomerController: ControllerBase
       {
          var customer = new Customer
          {
-            Id = Guid.NewGuid().ToString(),
+            Id= "60adf897b6f89b6d6c8b4568",
             Name = customerDto.Name,
             LastName = customerDto.LastName,
             Address = customerDto.Address,
@@ -59,7 +59,7 @@ public class CustomerController: ControllerBase
       }
       catch (Exception ex)
       {
-         // Hata durumunda, InternalServerError (500) döndürüyoruz
+         
          return StatusCode(500, "An error occurred while creating the customer: " + ex.Message);
       }
    }
@@ -72,7 +72,7 @@ public class CustomerController: ControllerBase
          return Ok("Member deleted successfully.");
                          
       }catch (Exception ex) {
-         // Hata durumunda, InternalServerError (500) döndürüyoruz
+        
          return StatusCode(500, "An error occurred while deleting the customer: " + ex.Message);
       }
    }
